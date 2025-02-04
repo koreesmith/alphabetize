@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#include <stdio.h>
-#include <string.h>
-
 int main()  {
     void AlphabetizeStrings(char **Array, int size);
     char *Array[] = {"banana", "apple", "cherry", "date"};
